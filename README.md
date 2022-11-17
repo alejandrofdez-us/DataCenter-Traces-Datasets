@@ -27,8 +27,15 @@ Some figures were generated from these datasets
 ![cpu_util_percent_usage_days_1_to_8_grouped_10_seconds](https://user-images.githubusercontent.com/19324988/202569296-3bb72ad4-92e7-4200-a19d-ef6fc26722ce.png)
 Figure: CPU utilization sampled every 10 seconds
 
-![mem_util_percent_usage_days_1_to_8_grouped_300_seconds](https://user-images.githubusercontent.com/19324988/202569501-7840c0a0-b4e8-4f7d-bb92-875e38c616e8.png)![cpu_usage_day_09](https://user-images.githubusercontent.com/19324988/202570243-1390bf7c-5dc2-4c35-86c6-b7d74ae4dd44.png)
+![mem_util_percent_usage_days_1_to_8_grouped_300_seconds](https://user-images.githubusercontent.com/19324988/202569501-7840c0a0-b4e8-4f7d-bb92-875e38c616e8.png)
 Figure: Memory utilization sampled every 300 seconds
+
+![net_in_usage_days_1_to_8_grouped_300_seconds](https://user-images.githubusercontent.com/19324988/202571345-79581b7f-c7cd-4690-aeea-56cc9f903396.png)
+
+[net_out_usage_days_1_to_8_grouped_300_seconds.pdf](https://github.com/alejandrofdez-us/DataCenter-Traces-Datasets/files/10036119/net_out_usage_days_1_to_8_grouped_300_seconds.pdf)
+
+![disk_io_percent_usage_days_1_to_8_grouped_300_seconds](https://user-images.githubusercontent.com/19324988/202571350-1f5defbf-6cb0-456a-b9d3-2f4d64a8021b.png)
+
 
 
 ## Google 2019 instance usage
