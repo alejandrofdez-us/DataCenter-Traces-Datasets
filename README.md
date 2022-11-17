@@ -31,10 +31,13 @@ Figure: CPU utilization sampled every 10 seconds
 Figure: Memory utilization sampled every 300 seconds
 
 ![net_in_usage_days_1_to_8_grouped_300_seconds](https://user-images.githubusercontent.com/19324988/202571345-79581b7f-c7cd-4690-aeea-56cc9f903396.png)
+Figure: Net in sampled every 300 seconds
 
-[net_out_usage_days_1_to_8_grouped_300_seconds.pdf](https://github.com/alejandrofdez-us/DataCenter-Traces-Datasets/files/10036119/net_out_usage_days_1_to_8_grouped_300_seconds.pdf)
+![net_out_usage_days_1_to_8_grouped_300_seconds](https://user-images.githubusercontent.com/19324988/202571570-d0067db7-3b75-4fb1-a866-8eeec78dd415.png)
+Figure: Net out sampled every 300 seconds
 
 ![disk_io_percent_usage_days_1_to_8_grouped_300_seconds](https://user-images.githubusercontent.com/19324988/202571350-1f5defbf-6cb0-456a-b9d3-2f4d64a8021b.png)
+Figure: Disk io sampled every 300 seconds
 
 
 
