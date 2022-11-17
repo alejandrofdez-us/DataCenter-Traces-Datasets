@@ -16,7 +16,7 @@ This repository dataset of machine usage includes the following columns:
 | net_out          | double     |       | normarlized out going network traffic, [0, 100]    |
 | disk_io_percent  | double     |       | [0, 100], abnormal values are of -1 or 101         |
 +--------------------------------------------------------------------------------------------+
-```![assigned_mem_month](https://user-images.githubusercontent.com/19324988/202569814-26cbda84-4c1b-425a-bc15-58378f24765e.png)
+```
 
 Three sampled datasets are found: average value of each column grouped every 10 seconds as original, and downsampled to 30 seconds and 300 seconds as well.
 Every column includes the average utilization of the whole data center.
