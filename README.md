@@ -69,19 +69,19 @@ Some figures were generated from these datasets
 
 |![cpu_usage_day_26](https://user-images.githubusercontent.com/19324988/202570580-6be32fd7-3e39-4e0a-bc8e-abda05c5edd2.png)|
 |:--:|
-|Figure: CPU usage day 26|
+|Figure: CPU usage day 26 sampled every 300 seconds|
 
 |![mem_usage_day_26](https://user-images.githubusercontent.com/19324988/202570586-388eafcd-a70e-40d3-8a80-9cdab0ef6236.png)|
 |:--:|
-|Figure: Mem usage day 26|
+|Figure: Mem usage day 26 sampled every 300 seconds|
 
 |![assigned_mem_day_26](https://user-images.githubusercontent.com/19324988/202570579-6d9744f8-97fb-42d2-bb9a-b9c7cf88bdb4.png)|
 |:--:|
-|Figure: Assigned mem day 26|
+|Figure: Assigned mem day 26 sampled every 300 seconds|
 
 |![cycles_per_instruction_day_26](https://user-images.githubusercontent.com/19324988/202570583-e28bae12-8540-4a69-845b-12cfc9be8c33.png)|
 |:--:|
-|Figure: Cycles per instruction day 26|
+|Figure: Cycles per instruction day 26 sampled every 300 seconds|
 
 
 
