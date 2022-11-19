@@ -99,8 +99,9 @@ This repository dataset of instance usage includes the following columns:
 | assigned_mem                  | double     |       | [0, _]                                |
 +--------------------------------------------------------------------------------------------+
 ```
-One sampled dataset is found: sum value of each column grouped every 300 seconds as original.
+One sampled dataset is found: sum value of each column grouped every 300 seconds as original. For computing CPU_usage, we used core_count usage of each virtual machine.
 Every column includes the total consumption of the whole data center virtual machines.
+There is a version of each file including timestamp (from 0 to 2591700, in 300 seconds timestep), and other version without timestamp
 
 ### Figures
 Some figures were generated from these datasets
