@@ -5,6 +5,10 @@ Public datasets organized for machine learning or artificial intelligence usage.
 ## Dataset DOI
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14564847.svg)](https://doi.org/10.5281/zenodo.14564847)
 
+## Structured Metadata
+
+This repository includes structured metadata in JSON-LD format to improve interoperability and discoverability of the dataset. You can find it in the [metadata.jsonld](metadata.jsonld) file.
+
 
 
 ## Alibaba 2018 machine usage
