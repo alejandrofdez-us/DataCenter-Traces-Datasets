@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Dataset",
+  "name": "DataCenter Traces Datasets",
+  "description": "Dataset organizado para usos de machine learning e inteligencia artificial.",
+  "identifier": "https://doi.org/[tu-DOI]",
+  "creator": {
+    "@type": "Person",
+    "name": "Alejandro Fernández"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GitHub"
+  },
+  "datePublished": "2024-12-28",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "keywords": ["dataset", "machine learning", "artificial intelligence", "datacenter"],
+  "distribution": {
+    "@type": "DataDownload",
+    "contentUrl": "https://github.com/alejandrofdez-us/DataCenter-Traces-Datasets",
+    "encodingFormat": "application/zip"
+  }
+}
