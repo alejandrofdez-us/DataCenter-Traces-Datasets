@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "DataCenter Traces Datasets",
   "description": "Dataset organizado para usos de machine learning e inteligencia artificial.",
-  "identifier": "https://doi.org/[tu-DOI]",
+  "identifier": "https://doi.org/10.5281/zenodo.14564847",
   "creator": {
     "@type": "Person",
     "name": "Alejandro Fernández"
