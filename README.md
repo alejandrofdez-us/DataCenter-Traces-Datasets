@@ -3,7 +3,9 @@
 Public datasets organized for machine learning or artificial intelligence usage. The following dasets can be used:
 
 ## Dataset DOI
-[![DOI](https://zenodo.org/badge/DOI.svg)](https://doi.org/10.5281/zenodo.14564847)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14564847.svg)](https://doi.org/10.5281/zenodo.14564847)
+
+
 
 ## Alibaba 2018 machine usage
 Processed from the original files found at:
